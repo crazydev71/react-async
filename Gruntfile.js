@@ -1,7 +1,5 @@
 'use strict';
 
-process.env.NODE_ENV = 'production';
-
 var path = require('path');
 
 var GULP_EXE = 'gulp';
